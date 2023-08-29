@@ -1,0 +1,5 @@
+This folder contains wrangled data that has been analysed and visulized. 
+
+"csgo case value data history.pdf" contains graphs from excel that can be used in the  visulization market trends
+
+"base usd case data.xlsx" contains the converted output data from the "Ultimate CSGO Market Analyzer Tool"

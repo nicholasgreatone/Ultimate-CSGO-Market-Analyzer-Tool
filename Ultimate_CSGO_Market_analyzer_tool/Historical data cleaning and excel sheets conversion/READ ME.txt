@@ -1,0 +1,10 @@
+Data visualizer and txt file creation:
+
+This module of the code reads JSON files from case data folder, organizes the historical USD values by year and month, and cleans up the JSON formating.
+Allow for the user to check their data while creating the "output.txt" file.
+"output.txt" is used in the "excel_convert" or "panda_ analysis_txt_to_excel" files for the excel sheet conversion.
+
+
+Excel convert & panda analysis txt to excel: 
+
+Converts the "output.txt" file into an excel sheet by using the pandas

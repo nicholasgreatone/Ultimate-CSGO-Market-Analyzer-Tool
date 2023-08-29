@@ -1,0 +1,4 @@
+Real time csgo market analyer:
+
+Uses steam api to grab the current values of market items within the "skins_list.txt" file, 
+the program then produces an output called "skins_values.json" to be used as formated storage option of the data. 

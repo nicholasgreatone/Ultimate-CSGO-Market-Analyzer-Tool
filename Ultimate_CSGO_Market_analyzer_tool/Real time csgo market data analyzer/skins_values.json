@@ -1,0 +1,134 @@
+{
+  "Dreams%20%26%20Nightmares%20Case": {
+    "success": true,
+    "lowest_price": "$1.15",
+    "volume": "96,303",
+    "median_price": "$1.07"
+  },
+  "Fracture%20Case": {
+    "success": true,
+    "lowest_price": "$0.58",
+    "volume": "96,293",
+    "median_price": "$0.54"
+  },
+  "Revolution%20Case": {
+    "success": true,
+    "lowest_price": "$1.03",
+    "volume": "89,087",
+    "median_price": "$1.03"
+  },
+  "Recoil%20Case": {
+    "success": true,
+    "lowest_price": "$0.46",
+    "volume": "80,661",
+    "median_price": "$0.45"
+  },
+  "Snakebite%20Case": {
+    "success": true,
+    "lowest_price": "$0.32",
+    "volume": "88,416",
+    "median_price": "$0.32"
+  },
+  "Operation%20Breakout%20Weapon%20Case": {
+    "success": true,
+    "lowest_price": "$6.83",
+    "volume": "3,477",
+    "median_price": "$6.70"
+  },
+  "Danger%20Zone%20Case": {
+    "success": true,
+    "lowest_price": "$0.72",
+    "volume": "26,979",
+    "median_price": "$0.71"
+  },
+  "Glove%20Case": {
+    "success": true,
+    "lowest_price": "$4.67",
+    "volume": "4,885",
+    "median_price": "$4.66"
+  },
+  "Prisma%202%20Case": {
+    "success": true,
+    "lowest_price": "$0.72",
+    "volume": "20,913",
+    "median_price": "$0.72"
+  },
+  "Chroma%202%20Case": {
+    "success": true,
+    "lowest_price": "$2.89",
+    "volume": "5,291",
+    "median_price": "$2.84"
+  },
+  "Gamma%202%20Case": {
+    "success": true,
+    "lowest_price": "$2.37",
+    "volume": "7,124",
+    "median_price": "$2.39"
+  },
+  "Chroma%203%20Case": {
+    "success": true,
+    "lowest_price": "$2.46",
+    "volume": "8,840",
+    "median_price": "$2.39"
+  },
+  "Spectrum%202%20Case": {
+    "success": true,
+    "lowest_price": "$1.87",
+    "volume": "11,636",
+    "median_price": "$1.68"
+  },
+  "Clutch%20Case": {
+    "success": true,
+    "lowest_price": "$0.75",
+    "volume": "22,971",
+    "median_price": "$0.73"
+  },
+  "Gamma%20Case": {
+    "success": true,
+    "lowest_price": "$2.39",
+    "volume": "6,062",
+    "median_price": "$2.35"
+  },
+  "Horizon%20Case": {
+    "success": true,
+    "lowest_price": "$0.83",
+    "volume": "9,160",
+    "median_price": "$0.83"
+  },
+  "Falchion%20Case": {
+    "success": true,
+    "lowest_price": "$1.03",
+    "volume": "3,633",
+    "median_price": "$0.91"
+  },
+  "Shadow%20Case": {
+    "success": true,
+    "lowest_price": "$1.01",
+    "volume": "3,657",
+    "median_price": "$0.93"
+  },
+  "CS20%20Case": {
+    "success": true,
+    "lowest_price": "$0.69",
+    "volume": "5,953",
+    "median_price": "$0.69"
+  },
+  "Operation%20Wildfire%20Case": {
+    "success": true,
+    "lowest_price": "$2.22",
+    "volume": "3,814",
+    "median_price": "$2.19"
+  },
+  "Operation%20Bravo%20Case": {
+    "success": true,
+    "lowest_price": "$54.48",
+    "volume": "133",
+    "median_price": "$53.94"
+  },
+  "Operation%20Hydra%20Case": {
+    "success": true,
+    "lowest_price": "$26.46",
+    "volume": "221",
+    "median_price": "$25.31"
+  }
+}
